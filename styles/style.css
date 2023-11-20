@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Montserrat:wght@300;400&family=Open+Sans:wght@300&family=Petit+Formal+Script&family=Poppins:wght@500&family=Raleway:wght@200&display=swap');
+
+*{
+    font-family: 'Comfortaa', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(135deg, #2980b9, #6dd5fa);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.custom-table {
+    border: none; 
+    background-color: transparent; 
+    margin-left: 15vh;
+    margin-top: 5vh;
+}
+
+.btn{
+    float: right;
+}
+
+
+.custom-table thead th {
+    background-color: transparent; 
+    border: none; 
+}
+
+.custom-table tbody th{
+    background-color: transparent; 
+    border: none;
+}
+
+.custom-table tbody td{
+    background-color: transparent; 
+    border: none;
+}
+
+.title{
+    height: 20vh;
+    background: none;
+}
+
+.icon_earth{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding-top: 10vh;
+}

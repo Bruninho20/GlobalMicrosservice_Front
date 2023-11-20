@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Montserrat:wght@300;400&family=Open+Sans:wght@300&family=Petit+Formal+Script&family=Poppins:wght@500&family=Raleway:wght@200&display=swap');
+
+*{
+    font-family: 'Comfortaa', sans-serif;
+    color: black;
+}
+
+h1, h2{
+    color: black;
+}
+
+
+.identificador{
+    margin-top: 10vh;
+}
+
+body {
+    background-image: url('../images/pexels-maria-isabella-bernotti-1049298.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+    margin: 0; 
+    padding: 0; 
+}
+
+.container {
+    padding: 2rem;
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 40vh;
+}
