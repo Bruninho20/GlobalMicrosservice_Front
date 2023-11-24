@@ -39,7 +39,13 @@ $ docker build . -t front
 
 $ docker run -p 8090:80 front
 
-Acessar neste [link](http://localhost:8090/pages/home.html)
+Após criar a imagem, clique no play 
+![image](https://github.com/Bruninho20/GlobalMicrosservice_Front/assets/99261881/8976dcf2-cdcf-4967-b5b2-d4f8253532d0)
+
+Pronto, para acessar o front-end clique neste [link](http://localhost:8090/pages/home.html)
+
+Obrigado pela atenção !
+Atenciosamente - 3SIS
 
 
 
